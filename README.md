@@ -1,5 +1,6 @@
 
 Admin Unchained
+===
 
 The goal of this package is to make some of the functionality of `contrib.admin` available
 outside of the admin site.

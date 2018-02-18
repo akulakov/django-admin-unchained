@@ -5,6 +5,8 @@ Admin Unchained
 The goal of this package is to make some of the functionality of `contrib.admin` available
 outside of the admin site.
 
+Tested with Django 1.11 and 2.0.2
+
 This package may be useful for:
 ---
 

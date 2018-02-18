@@ -113,4 +113,4 @@ somewhere before the admin class:
 
 Exaple app
 ---
-You can look under `app1` to see the example admin, views and urls.
+You can look under `example_app` to see the example admin, views and urls.

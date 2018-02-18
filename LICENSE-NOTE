@@ -1,0 +1,5 @@
+The following code are copied from Django Admin package and are therefore under Django LICENSE:
+
+admin_unchained/templatetags/admin_unchained_list.py
+
+admin_unchained/templates/*

@@ -113,6 +113,6 @@ somewhere before the admin class:
         print ('In make_published()', queryset)
     make_published.short_description = 'Set books as published'
 
-Exaple app
+Example app
 ---
 You can look under `example_app` to see the example admin, views and urls.

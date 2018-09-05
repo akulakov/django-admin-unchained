@@ -18,6 +18,10 @@ This package may be useful for:
  - Making admin listing available to users who do not have the change permissions for
    the respective model.
  - Custom / explicit permissioning for each view.
+ - Making unlimited ChangeList pages / views with different configurations for the same model, e.g.
+   each with different columns, filters and actions, set up for different types of users, for example 
+   a simplified listing with 2-3 columns for reviewers or other non-technical users, more columns or actions for
+   users who may need to do more extensive changes.
 
 The following admin functionality is made available:
 ---
